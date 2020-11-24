@@ -1,4 +1,4 @@
-# qa-interview
+# qainterview
 
 Preconditions
 	To execute the suite of automated tests, JAVA 8 and Maven must be installed and added to the environment variables
